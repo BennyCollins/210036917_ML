@@ -1,5 +1,3 @@
-[Title](210036917.pdf)
-
 Dependencies:
 Python:
 pandas
